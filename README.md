@@ -15,6 +15,6 @@ Skills: HTML / CSS / REACT / JS / Gatsby / Styled component
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usaamatahir)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usaamatahir&count_private=true&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usaamatahir&count_private=true&show_icons=true&include_all_commits=true)  
 
 ![Profile views](https://gpvc.arturio.dev/usaamatahir)  
