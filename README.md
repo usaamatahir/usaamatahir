@@ -4,7 +4,7 @@
 
 I am Usama Tahir from Pakistan. A JavaScript developer that focuses on front-end frameworks such as React, Gatsby and AWS cloud technologies for backend. I have more than a year of experience with React. I have a passion for Design systems and Serverless Technologies. To grow my skills I am currently focusing on building JAM Stack applications. I have also contributed in Open source to help people learn AWS CDK is the easiest way possible.
 
-Skills: HTML / CSS / REACT / JS / Gatsby / Styled component
+Skills: HTML / CSS / REACT / JS / Gatsby / Next.js / Styled component / TailwindCSS
 
 - 🔭 I’m currently working at panacloud 
 - 🌱 I’m currently learning Cloud technologies 
