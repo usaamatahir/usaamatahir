@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Usama Tahir
 
-![Jamstack Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFHkUrOpHZmlw/profile-displaybackgroundimage-shrink_200_800/0/1608901757519?e=1626912000&v=beta&t=twqJB4dSjX1V55Vpluxsg_uk0VzP8rHGqEKjcPFf9n0)
 
-I am Usama Tahir from Pakistan. A JavaScript developer that focuses on front-end frameworks such as React, Gatsby and AWS cloud technologies for backend. I have more than a year of experience with React. I have a passion for Design systems and Serverless Technologies. To grow my skills I am currently focusing on building JAM Stack applications. I have also contributed in Open source to help people learn AWS CDK is the easiest way possible.
+I am Usama Tahir from Pakistan. A JavaScript developer that focuses on front-end frameworks such as React, Gatsby and AWS cloud technologies for backend. I have 2 years of experience with React. I have a passion for Design systems and Serverless Technologies. To grow my skills I am currently focusing on building JAM Stack applications. I have also contributed in Open source to help people learn AWS CDK is the easiest way possible.
 
 Skills: HTML / CSS / REACT / JS / Gatsby / Next.js / Styled component / TailwindCSS
 
