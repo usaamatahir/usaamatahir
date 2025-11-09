@@ -1,13 +1,74 @@
-### Hi there 👋, I'm Usama Tahir
+# 👋 Hi, I'm Usama
+
+## Tired of slow, clunky websites that don't convert?
+
+**You're not alone.**
+
+I've worked with growing brands struggling with:
+- ⚠️ Slow performance
+- ⚠️ Manual content bottlenecks
+- ⚠️ Poor conversions
+
+They wanted speed, automation, and better ROI — but didn't know how to get there.
+
+**That's where I come in.**
 
 
-A JavaScript developer that focuses on front-end frameworks such as React, Gatsby and AWS cloud technologies for backend. I have 2 years of experience with React. I have a passion for Design systems and Serverless Technologies. To grow my skills I am currently focusing on building JAM Stack applications. I have also contributed in Open source to help people learn AWS CDK is the easiest way possible.
+## 🚀 About Me
 
-Skills: HTML / CSS / REACT / JS / Gatsby / Next.js / Material-UI / TailwindCSS / Sanity.io / Contentful / Prismic
+I'm a **React Developer** with **4+ years** in headless development, specialized in:
+- ⚛️ React
+- ⚡ Next.js
+- 🎨 Gatsby
+- 📝 Headless CMS (Sanity, Contentful)
 
-- 🔭 I’m currently working at Civilized Savage 
-- 🌱 I’m currently learning Agentic AI 
-- 📫 How to reach me: usamatahir8330@gmail.com 
+But I don't just code — **I automate, optimize, and scale.**
+
+
+## 💼 What I've Built
+
+At **Civilized Savage**, I built:
+
+🤖 **AI Content Agents via n8n**
+- Blog content created and published automatically through APIs
+
+📊 **CRO Agents using GA + Microsoft Clarity**
+- Optimization docs generated & delivered weekly
+
+🛒 **Headless eCommerce Stores powered by Shopify APIs**
+- User flows optimized automatically
+
+**All delivering measurable impact.**
+
+✨ Clients loved the results: **Better UX, faster sites, higher conversions.**
+
+
+## 🛠️ How I Can Help
+
+Want something similar for your product or store?
+
+✅ **Headless Shopify Migration**  
+✅ **Frontend Development** using React & Next.js  
+✅ **Content Automation** via n8n  
+✅ **CRO Workflow Automation**
+
+**You don't need to hire 3 people. Just hire 1 who connects the dots.**
+
+
+## 📫 Let's Connect
+
+💬 DM me or check my featured projects below.
+
+**Let's build something that scales — and sells.**
+
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usaamatahir&show_icons=true&theme=radical)
+
+### 🔥 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usaamatahir&layout=compact&theme=radical)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/usaamatahir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/usamatahir0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/usamatahir0)  
