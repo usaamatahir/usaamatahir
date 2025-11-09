@@ -64,17 +64,15 @@ Want something similar for your product or store?
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usaamatahir&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usaamatahir&count_private=true&show_icons=true&include_all_commits=true)
 
 ### 🔥 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usaamatahir&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usaamatahir&layout=compact)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/usaamatahir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/usamatahir0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/usamatahir0)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/usaamatahir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/usamatahir0/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usaamatahir)](https://github.com/usaamatahir)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usaamatahir&count_private=true&show_icons=true&include_all_commits=true)  
 
 ![Profile views](https://gpvc.arturio.dev/usaamatahir)  
