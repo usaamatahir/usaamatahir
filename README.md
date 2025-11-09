@@ -70,9 +70,8 @@ Want something similar for your product or store?
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usaamatahir&layout=compact)
 
+### 👀 Profile Views 
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/usaamatahir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/usamatahir0/) 
-
-
-
-![Profile views](https://gpvc.arturio.dev/usaamatahir)  
